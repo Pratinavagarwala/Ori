@@ -1,0 +1,19 @@
+h1{
+    color:aquamarine;
+    position: center;
+}
+
+.intro{
+     
+    display: flex;
+    justify-content:space-between;
+    height:500px;
+    
+} 
+
+.origami{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}   
